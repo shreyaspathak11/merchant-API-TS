@@ -1,4 +1,4 @@
-GITHUB: https://github.com/shreyaspathak11/Merchant-API
+GITHUB: https://github.com/shreyaspathak11/merchant-API-TS
 
 I'm not familiar with deployment in Netlify 
 So, I deployed it to Vercel
